@@ -1,0 +1,16 @@
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.exe
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.deps.json
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.runtimeconfig.json
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.runtimeconfig.dev.json
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.dll
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ref\ChatProject.dll
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\bin\Debug\net5.0\ChatProject.pdb
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.csproj.AssemblyReference.cache
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.AssemblyInfoInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.AssemblyInfo.cs
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.dll
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ref\ChatProject.dll
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.pdb
+D:\Universitate\Anul-III\Inginerie Software\Proiecte\ChatProject\ChatProject\obj\Debug\net5.0\ChatProject.genruntimeconfig.cache
